@@ -1,0 +1,1 @@
+javascript:!function(){var t=document.title;prompt("title is",t)}();

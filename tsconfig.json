@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "removeComments": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "alwaysStrict": false,
+    "baseUrl": "./src/",
+    "paths": {
+      "#/*": [
+        "*"
+      ]
+    },
+    "esModuleInterop": true
+  }
+}

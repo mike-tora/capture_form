@@ -1,0 +1,1 @@
+javascript:var Student=function(e,t,n){this.firstName=e,this.middleInitial=t,this.lastName=n,this.fullName=e+" "+t+" "+n};function greeter(e){return"Hello, "+e.firstName+" "+e.lastName}var user=new Student("Jane","M.","User");document.getElementsByTagName("body")[0].innerText=greeter(user);

@@ -1,0 +1,28 @@
+{
+  "name": "bookmarklet_ts_template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mike-tora/bookmarklet_ts_template.git",
+  "author": "mike_tora <mike.tora.buchi.hachi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.21.0",
+    "@typescript-eslint/parser": "^2.21.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3",
+    "typescript-require": "^0.2.10"
+  }
+}
